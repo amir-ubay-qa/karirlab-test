@@ -15,3 +15,4 @@
 3. There are 2 custom command function
    - verifyLanguage()
    - verifyLanguageHyperlink()
+4. Test data located on /cypress/fixtures/lang-data.json
