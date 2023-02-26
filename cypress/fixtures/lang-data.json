@@ -1,0 +1,46 @@
+{
+   "english": {
+      "code":"en",
+      "text":"English"
+   },
+   "indonesia": {
+      "code":"id",
+      "text":"Indonesia"
+   },
+   "rusia": {
+      "code":"ru",
+      "text":"Русский"
+   },
+   "jepang": {
+      "code":"ja",
+      "text":"日本語"
+   },
+   "belanda": {
+      "code":"de",
+      "text":"Deutsch"
+   },
+   "prancis": {
+      "code":"fr",
+      "text":"Français"
+   },
+   "spanyol": {
+      "code":"es",
+      "text":"Español"
+   },
+   "itali": {
+      "code":"it",
+      "text":"Italiano"
+   },
+   "china": {
+      "code":"zh",
+      "text":"中文"
+   },
+   "farsi": {
+      "code":"fa",
+      "text":"فارسی"
+   },
+   "polandia": {
+      "code":"pl",
+      "text":"Polski"
+   }
+}
