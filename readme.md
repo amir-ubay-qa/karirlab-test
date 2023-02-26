@@ -10,8 +10,8 @@
 # Test Structure
 1. Test file on folder /cypress/e2e/wikipedia.cy.js
 2. There are 2 test group
-   a. Featured language appearance
-   b. Featured language hyperlink
+   - Featured language appearance
+   - Featured language hyperlink
 3. There are 2 custom command function
-   a. verifyLanguage()
-   b. verifyLanguageHyperlink()
+   - verifyLanguage()
+   - verifyLanguageHyperlink()
